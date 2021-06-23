@@ -1,4 +1,4 @@
-## PROJECT `SIGNALISM`
+## Project `Signalism.ML`
 
 This project is about Art. AI. A merger of opposites through poetry. Post-impressionism and retro avant-garde. Poetry.
 
