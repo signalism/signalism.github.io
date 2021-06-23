@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## PROJECT `SIGNALISM`
 
-You can use the [editor on GitHub](https://github.com/signalism/signalism.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is about Art. AI. A merger of opposites through poetry. Post-impressionism and retro avant-garde. Poetry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Origins and History
 
-### Markdown
+Inspiration comes from the [Signalism movement](https://en.wikipedia.org/wiki/Signalism). It was a subculture postmodernist movement back in the 60s. Key point that differentiated Signalism from mainstream culture at that time was avoiding any connection with traditional style in expression. **Revolutionary and controversial for that time, computer programs were used to help create poetry, giving Signalism the nickname "computer poetry"**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Revolution in Expression
 
-```markdown
-Syntax highlighted code block
+Revolution of the poetic language started with the introduction of symbols, formulas and linguistic forms of the "hard" sciences (physics, biology, chemistry, mathematics, biochemistry and astronomy). Furthermore, the language was made visual by dispersing words and sentences into syllables and letters forming visually recognizable patterns, as well as by introducing non-verbal symbols into the text (drawings, photographs, graphs) for the purpose of creating a collage of verbal and visual elements.
 
-# Header 1
-## Header 2
-### Header 3
+### Fast Forward to the Future
 
-- Bulleted
-- List
+With new technologies this movement gets a chance to be revived and resurrected. Also, the ability that fundamental ideas be observed and praised under a different light, from a different perspective; explosive dynamic of styles with new approach and endless possibilities using Machine Learning tools and frameworks. Since Signalism was one of the first poetic movements to use computer programs, Machine Learning is a natural progression.
 
-1. Numbered
-2. List
+### Experiment With GPT-2
 
-**Bold** and _Italic_ and `Code` text
+This all led to the experiment: **[generator.signalism.ml](https://generator.signalism.ml/)**. Using HuggingFace GPT-2 model and examples of signalist poems as input for the model, the results were absolute madness. Output appeared as a new artform beyond anything we expected. By tweaking parameters, we were amazed by the variety of forms the model was able to produce. Legacy of Signalism for future generations to explore and work with it paid off. We reached that peak in evolution of contemporary art where we all may agree that anything is possible.
 
-[Link](url) and ![Image](src)
-```
+### Aspirations
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As signalist youth our aspirations are obvious: we want to take this to the next level, **FULL POWER: GPT-3**.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/signalism/signalism.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
